@@ -27,3 +27,12 @@ h1 {
     text-align: center;
     margin-bottom: 40px;
 }
+
+li, a{
+    font-size: 20px;
+    color: chocolate;
+    
+    list-style-type: none;
+    text-align: center;
+    margin: 30px auto;
+}
