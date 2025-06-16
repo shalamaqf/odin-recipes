@@ -28,9 +28,8 @@ h1 {
     margin-bottom: 40px;
 }
 
-li, a{
+li {
     font-size: 20px;
-    color: chocolate;
     
     list-style-type: none;
     text-align: center;
