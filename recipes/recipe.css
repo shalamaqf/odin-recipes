@@ -34,3 +34,8 @@ img {
     border-radius: 8px;
     margin: 0 auto;
 }
+
+.credit {
+    text-align: center;
+    margin: 10px auto;
+}
