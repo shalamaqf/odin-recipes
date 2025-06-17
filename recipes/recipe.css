@@ -39,3 +39,12 @@ img {
     text-align: center;
     margin: 10px auto;
 }
+
+h2 {
+    color: darkred;
+    text-align: left;
+    text-decoration: underline ;
+
+    padding: 10px;
+    margin: 5px 10px;
+}
