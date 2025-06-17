@@ -55,9 +55,15 @@ li {
 }
 
 .container{
-
+    text-align: center;
+    margin: 30px auto;
 }
 
 .home-button {
+    color: whitesmoke;
+    background-color: darkred;
+    font-size: 20px;
+    text-decoration: none;
 
+    padding: 7px 30px;
 }
